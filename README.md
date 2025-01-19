@@ -7,3 +7,5 @@ reports page, which will have all transactions recorded by the user through an e
 it. Once the user presses "log expense" it will display the transaction in the transaction history of the page. The next page is the settings page which allows the user to change 
 their password, log out, and set a monthly cap. The last page the user can go to is the Overview page. In this page the user can see an overview 
 of their spending habits and the top categories they spent the most money in. 
+
+This application uses C# and the .NET MAUI framwork with the Visual Studio IDE. 
